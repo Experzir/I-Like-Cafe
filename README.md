@@ -8,7 +8,7 @@ Mobile application development
 - Authentication : Login and Register
 
 ### Authentication Page
-![l12](https://user-images.githubusercontent.com/71135805/213906133-2b1f981a-05e6-4629-ba55-803f8f08bd1d.png width="300" height="300"/)
+![l12](https://user-images.githubusercontent.com/71135805/213906133-2b1f981a-05e6-4629-ba55-803f8f08bd1d.png)
 
 ### Cafe Page
 ![c1](https://user-images.githubusercontent.com/71135805/213906138-d583d044-91ec-4010-88a4-e523016c0794.jpg)
